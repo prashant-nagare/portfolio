@@ -12,9 +12,9 @@ const Hero = (props) => (
           Hey there,
         </SectionTitle>
         <SectionText>
-          This is Vipul Jha from New Delhi, India. I am the Co-founder of <b>
-            <Link href="https://hexoncode.com" target="_blank">Hexoncode</Link></b>.
-          I work on Apps, Kernels, ROMs, & Scripts.
+          This is Prashant Nagare from Sangamner, India. I am a Software Developer at <b>
+            <Link href="https://cognizant.com" target="_blank">Cognizant</Link></b>.
+          I work on Cross-Platform Apps, Kernels, ROMs, & Scripts.
         </SectionText>
         <Button onClick={(e) => {
           e.preventDefault();
