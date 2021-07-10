@@ -32,11 +32,11 @@ export default class MyDocument extends Document {
       <Html lang='en-GB'>
         <Head>
           <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
-          <meta name="title" content="Vipul Jha - Co-founder, Hexoncode" />
-          <meta name="description" content="Hey there, This is Vipul Jha aka lordarcadius. I am the Co-founder of Hexoncode. I work on Apps, Kernels, ROMs, and Scripts." />
+          <meta name="title" content="Prashant Nagare - Software Developer" />
+          <meta name="description" content="Hey there, This is Prashant Nagare aka reaperg0d. I am a software developer. I work on Cross-Platform Apps, Linux and Scripts." />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Vipul Jha - Co-founder, Hexoncode" />
-          <meta property="og:description" content="Hey there, This is Vipul Jha aka lordarcadius. I am the Co-founder of Hexoncode. I work on Apps, Kernels, ROMs, and Scripts." />
+          <meta property="og:title" content="Prashant Nagare - Software Developer" />
+          <meta property="og:description" content="Hey there, This is Prashant Nagare aka Reaperg0d. I am the founder of PowerPC. I work on Linux, Cross-Platform Apps and Web-Development." />
           <meta property="og:image" content="https://www.vipuljha.com/images/banner.png" />
           <meta property="twitter:card" content="summary_large_image" />
           <meta property="twitter:title" content="Vipul Jha - Co-founder, Hexoncode" />
