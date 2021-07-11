@@ -39,8 +39,8 @@ export default class MyDocument extends Document {
           <meta property="og:description" content="Hey there, This is Prashant Nagare aka Reaperg0d. I am the founder of PowerPC. I work on Linux, Cross-Platform Apps and Web-Development." />
           <meta property="og:image" content="https://www.vipuljha.com/images/banner.png" />
           <meta property="twitter:card" content="summary_large_image" />
-          <meta property="twitter:title" content="Vipul Jha - Co-founder, Hexoncode" />
-          <meta property="twitter:description" content="Hey there, This is Vipul Jha aka lordarcadius. I am the Co-founder of Hexoncode. I work on Apps, Kernels, ROMs, and Scripts." />
+          <meta property="twitter:title" content="Prashant Nagare" />
+          <meta property="twitter:description" content="Hey there, This is Prashant Nagare aka reaperg0d. I am a software developer at Cognizant. I work on Apps, Kernels, ROMs, and Scripts." />
           <meta property="twitter:image" content="https://www.vipuljha.com/images/banner.png" />
         </Head>
         <body>
