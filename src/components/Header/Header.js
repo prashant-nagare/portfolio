@@ -29,22 +29,22 @@ const Header = () => (
         </Link>
       </li>
       <li>
-        <a href="https://blog.vipuljha.com">
+        <a href="https://blog.prashantnagare.netlify.com">
           <NavLink>Blog</NavLink>
         </a>
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/lordarcadius">
+      <SocialIcons href="https://github.com/prashant-nagare">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/lordarcadius/">
+      <SocialIcons href="https://www.linkedin.com/in/prashant-nagare/">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.instagram.com/lordarcadius">
+      <SocialIcons href="https://www.instagram.com/iprashantnagare">
         <AiFillInstagram size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.twitter.com/lordarcadius">
+      <SocialIcons href="https://www.twitter.com/iprashantnagare">
         <AiFillTwitterCircle size="3rem" />
       </SocialIcons>
     </Div3>
