@@ -10,11 +10,11 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Chat</LinkTitle>
-          <LinkItem href="https://t.me/lordarcadius">Telegram</LinkItem>
+          <LinkItem href="https://t.me/reaperg0d">Telegram</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:vipul@hexoncode.com">
+          <LinkItem href="mailto:nagarepk@gmail.com">
             vipul@hexoncode.com
           </LinkItem>
         </LinkColumn>
