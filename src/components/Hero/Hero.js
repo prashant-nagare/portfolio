@@ -12,7 +12,7 @@ const Hero = (props) => (
           Hey there,
         </SectionTitle>
         <SectionText>
-          This is Prashant Nagare from Sangamner, India. I am a Software Developer at <b>
+          This is Prashant Nagare from Sangamner, India. I am a Certified Ethical Hacker & Software Engineer at <b>
             <Link href="https://cognizant.com" target="_blank">Cognizant</Link></b>.
           I work on Cross-Platform Apps, Kernels, ROMs, & Scripts.
         </SectionText>
