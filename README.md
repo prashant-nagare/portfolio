@@ -15,7 +15,7 @@ A portfolio built in React and NextJS. Simple, clean and fast.
   
 ## Demo
 
-[Live Preview](https://www.vipuljha.com)
+[Live Preview](https://www.prashantnagare.com)
 
 ## Run Project 
 
