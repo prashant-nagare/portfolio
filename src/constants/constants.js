@@ -59,9 +59,8 @@ export const projects = [
 export const TimeLineData = [
   { year: 2016, text: 'Started my journey as a new developer', },
   { year: 2017, text: 'Worked intensively on ROMs & Kernels', },
-  { year: 2018, text: 'Learned Web development', },
-  { year: 2019, text: 'Created multiple web based apps & maintained monitised web-sites', },
-  { year: 2020, text: 'Finished Bachelors in Computer Science', },
-  { year: 2021, text: 'Started working at Cognizant as a Jr. Software Engineer', },
-  { year: 2022, text: 'Achieved Certified Ethical Hacker [CEH] from EC-Council', },
+  { year: 2018, text: 'Learned Android app development', },
+  { year: 2019, text: 'Finished Diploma in Computer Engineering', },
+  { year: 2020, text: 'Established a startup with friends', },
+  { year: 2021, text: 'Still trying to figure out 2021', },
 ];
