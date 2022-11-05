@@ -12,9 +12,9 @@ const Hero = (props) => (
           Hey there,
         </SectionTitle>
         <SectionText>
-          This is Prashant Nagare from Sangamner, India. I am a Software Developer at <b>
+          This is Prashant Nagare aka Reaperg0d from Sangamner, India. I am a Software Engineer at <b>
             <Link href="https://cognizant.com" target="_blank">Cognizant</Link></b>.
-          I work on Cross-Platform Apps, Kernels, ROMs, & Scripts.
+          & Passionate Cyber security researcher & Penetration Tester.
         </SectionText>
         <Button onClick={(e) => {
           e.preventDefault();
