@@ -19,23 +19,8 @@ const Header = () => (
         </Link>
       </li>
       <li>
-        <Link href="#projects">
-          <NavLink>Experience</NavLink>
-        </Link>
-      </li>
-      <li>
-        <Link href="#projects">
-          <NavLink>Certs</NavLink>
-        </Link>
-      </li>
-      <li>
         <Link href="#skills">
           <NavLink>Skills</NavLink>
-        </Link>
-      </li>
-      <li>
-        <Link href="#projects">
-          <NavLink>Education</NavLink>
         </Link>
       </li>
       <li>
