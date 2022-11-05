@@ -12,14 +12,14 @@ export const Skills = [
   {
     slug: "flutter",
     Component: RiFlutterFill,
-    title: "Flutter",
-    Description: () => <>Experience with Flutter apps & dart</>,
+    title: "Linux/Windows",
+    Description: () => <>Experience with Various Windows & Linux Penetartion Testing Distros</>,
   },
   {
     slug: "java",
     Component: SiJava,
-    title: "Java",
-    Description: () => <>Experience with developing apps</>,
+    title: "C/Python",
+    Description: () => <>Experience with Programming Languages</>,
   },
   {
     slug: "terminal",
@@ -30,8 +30,8 @@ export const Skills = [
   {
     slug: "firebase",
     Component: SiFirebase,
-    title: "Firebase",
-    Description: () => <>Experience in firebase with auth and database</>,
+    title: "Tools",
+    Description: () => <>Experience of Various HAcking Tools</>,
   },
   {
     slug: "git",
