@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: 'Certified Ethical Hacker [CEH]',
+    description: "A Certified Ethical Hacker is a skilled professional who understands and knows how to look for weaknesses and vulnerabilities in target systems and uses the same knowledge and tools as a malicious hacker, but in a lawful and legitimate manner to assess the security posture of a target system(s).",
+    image: '/images/CEH.png',
+    tags: ['CEH', 'Ehical Hacking', 'Penetration Testing'],
+    source: 'https://github.com/Coders-Of-XDA-OT/covid19-status-android',
+    visit: 'https://project.vipuljha.com/covid/',
+    id: 0,
+  },
+  {
     title: 'Covid-19 Status App',
     description: "COVID-19 Status is a free, open-source Android application that shows the current state of COVID-19 in India and the world. It has a beautiful, simple, and fast UI.",
     image: '/images/covid.jpg',
@@ -57,10 +66,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2016, text: 'Started my journey as a new developer', },
-  { year: 2017, text: 'Worked intensively on ROMs & Kernels', },
+  { year: 2017, text: 'Worked intensively on Websites, Adsense & Web scripts', },
   { year: 2018, text: 'Learned Android app development', },
-  { year: 2019, text: 'Finished Diploma in Computer Engineering', },
-  { year: 2020, text: 'Established a startup with friends', },
-  { year: 2021, text: 'Still trying to figure out 2021', },
+  { year: 2019, text: 'Developed various academic & personal projects', },
+  { year: 2020, text: 'Completed Computer Science with first class', },
+  { year: 2021, text: 'Joined Cognizant Technology Solutions as Programmer Trainee', },
+  { year: 2021, text: 'Promoted to Software Engineer & Achieved CEH cert', },
 ];
